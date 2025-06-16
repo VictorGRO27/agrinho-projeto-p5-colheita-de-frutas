@@ -7,5 +7,4 @@ Referências:
 ChatGPT;
 https://creatorassets.com/a/8-bit-coin-sound-effects.
 Prompts Utilizados do chatGPT:
-Sons;
-Movimentos.
+Som; Movimentos.
