@@ -14,19 +14,6 @@ Prompts Utilizados do chatGPT:
   if (keyIsDown(68)) {
     x += 10;
   }
-  y1 += random(veloc);
-  if (y1 > 80) {
-    y2 += random(veloc);
-  }
-  if (y2 > 80) {
-    y3 += random(veloc);
-  }
-  if (y3 > 80) {
-    y4 += random(veloc);
-  }
-  if (y4 > 80) {
-    y5 += random(veloc);
-  }
   if (dist(x, y, x1, y1) < 40) {
     somPontos.play();
     pontos++;
