@@ -10,7 +10,7 @@ _Aperte "A" para andar para esquerda_;
 _Aperte "D" para andar para direita_;
 
 Referências:
-
+YouTube;
 ChatGPT:
 Prompts Utilizados do chatGPT:
  somPontos = loadSound("sound5.mp3");
